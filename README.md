@@ -6,15 +6,15 @@ This repository contains the implementation of a Tic Tac Toe game in C++ with a 
 
 ## Repository Structure
 
-- **CODE/**: Contains all the C++ code files related to the Tic Tac Toe game, including the implementation of the new player class and its test case file. To use these files:
+- **Code**: Contains all the C++ code files related to the Tic Tac Toe game, including the implementation of the new player class and its test case file. To use these files:
   - Add the files to your project.
   - If you have more computer players, please update the player number in the respective C++ file.
 
-- **Results/**: Contains images of the code output and test results.
+- **Results**: Contains images of the code output and test results.
 
-- **Documentation/**: The documentation file, providing detailed information about the project, is stored here.
+- **Documentation**: The documentation file, providing detailed information about the project, is stored here.
 
-- **Misc/**: Includes activity diagrams, game states, winning board states, and all other miscellaneous images and files. A backup copy of the working code is also available in this folder, but note that test cases are not included in this backup.
+- **Misc**: Includes activity diagrams, game states, winning board states, and all other miscellaneous images and files. A backup copy of the working code is also available in this folder, but note that test cases are not included in this backup.
 
 ## Activity Diagram
 
@@ -52,7 +52,5 @@ The implementation includes a depth analysis, where the depth of the Minimax Alg
 
 While the current implementation is robust, there is room for improvement by incorporating the Alpha-Beta Pruning Algorithm, which could enhance the efficiency of the Minimax Algorithm, particularly for larger board sizes.
 
-## Thank You
 
-Hello and Thank you for your time. This document is a guide to using this project. I hope this works smoothly on your system as no major files have been altered.
 
